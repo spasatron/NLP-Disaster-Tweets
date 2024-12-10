@@ -1,0 +1,5 @@
+data/sample_submission.csv
+data/test.csv
+data/train.csv
+vectors/*
+hyperband_tuning/*
